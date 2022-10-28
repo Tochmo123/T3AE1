@@ -1,7 +1,4 @@
 Chiva
 saludo
-<<<<<<< HEAD
 usuari2
-=======
 usuari1
->>>>>>> 25c4df3476d887b8ce6424f853bed5c38c5c4b1a
